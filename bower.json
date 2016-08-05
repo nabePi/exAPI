@@ -1,0 +1,21 @@
+{
+  "name": "tarkam",
+  "description": "",
+  "main": "",
+  "authors": [
+    "hidden_rebel <hidden_rebel@rocketmail.com>"
+  ],
+  "directory": "components",
+  "dependencies": {
+    "bootstrap": "latest",
+    "jquery": "latest",
+    "typeahead.js": "latest",
+    "font-awesome": "latest"
+  },
+  "license": "MIT",
+  "moduleType": [
+   "node"
+  ],
+  "homepage": ""
+ 
+}
